@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right,#7EF52F,#6cd128);
+}
+
+main{
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px rgba(17, 32, 6, 0.603);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #2D5710;
+    text-align: center;
+    text-shadow: 1px 1px 5px #203d0b8e;
+}
+
+h2{
+    color: #427F18;
+}
+
+p{
+    text-align: justify;
+}
